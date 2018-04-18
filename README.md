@@ -5,4 +5,4 @@ Number three in a series of challenges to work on building our HTML/CSS muscle. 
 ____
 ## Original Comp
 ![Original Comp](images/mock-sc-3.png)
-![My Version](cb-static-comp-2.png)
+![My Version](cb-comp-3.png)
